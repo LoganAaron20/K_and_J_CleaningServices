@@ -79,3 +79,5 @@ window.addEventListener('scroll', () => {
         document.querySelector('nav ul li a[href*=' + current + ']').classList.add('active');
     });
 });
+
+
