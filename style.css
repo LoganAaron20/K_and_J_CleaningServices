@@ -238,7 +238,8 @@ header .container nav ul li a:hover {
 /* Start Home Section  */
 .home {
     background-color: #f4faff;
-    height: 100vh;
+    height: 100%;
+    /* margin-top: 150px; */
 }
 
 .home .container {
@@ -271,6 +272,7 @@ header .container nav ul li a:hover {
 
 .home .container .home-img {
     display: none;
+    height: 100%
 }
 
 @media(min-width: 768px) {
